@@ -25,6 +25,7 @@ Programs evolution_j1.m and evolution_v0.m are used to obtain the numerically si
 
 # Citation
 If you find our research helpful, please consider citing us with：
+
 @article{your2025paper,
   title     = {Your Paper Title},
   author    = {Your Name and Collaborators},
