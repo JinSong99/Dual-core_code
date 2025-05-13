@@ -23,7 +23,7 @@ Programs evolution_j1.m and evolution_v0.m are used to obtain the numerically si
 # Citation
 If you find our research helpful, please consider citing us with：
 ```bibtex
-@article{your2025paper,
+@article{
   title     = {Symmetry-breaking bifurcations and excitations of solitons in linearly coupled NLS equations with PT-symmetric potentials},
   author    = {J. Song, B. A. Malomed, and Z. Yan},
   journal   = {Proceedings of the Royal Society A},
